@@ -12,10 +12,11 @@ const Footer = () => {
       }}
     >
       <Typography variant="body2">
-        © 2026 Vriddhi Kakkar | 23BAI71463
+        © 2026 Vriddhi Kakkar | 23BAI70621
       </Typography>
     </Box>
   );
 };
 
 export default Footer;
+
