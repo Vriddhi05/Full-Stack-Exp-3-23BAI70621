@@ -1,5 +1,6 @@
 import { Box, Typography, Button, Avatar } from "@mui/material";
 import { Link } from "react-router-dom";
+import profilePic from "../assets/vriddhi.jpg";
 
 const HeroSection = () => {
   return (
@@ -10,7 +11,7 @@ const HeroSection = () => {
       }}
     >
       <Avatar
-        src="/vriddhi.jpg"
+        src={profilePic}
         sx={{ width: 150, height: 150, margin: "auto", mb: 3 }}
       />
 
