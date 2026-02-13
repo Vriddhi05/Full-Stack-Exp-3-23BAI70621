@@ -20,7 +20,7 @@ const HeroSection = () => {
       </Typography>
 
       <Typography variant="h6" gutterBottom>
-        Roll No: 23BAI71463 | AI & ML Student
+        Roll No: 23BAI70621 | AI & ML Student
       </Typography>
 
       <Button
@@ -37,3 +37,4 @@ const HeroSection = () => {
 };
 
 export default HeroSection;
+
